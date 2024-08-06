@@ -1,2 +1,2 @@
 # AdminLogin-Html-Css
-a nice Admin login page preview
+a Admin login HTML - CSS
